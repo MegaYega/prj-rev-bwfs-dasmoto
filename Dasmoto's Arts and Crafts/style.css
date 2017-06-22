@@ -1,0 +1,27 @@
+div.header {
+  font-family:Helvetica;
+  font-size: 50px;
+  /*font-size:100px is too big, so I changed it to 40px*/
+  font-weight: bold;
+  color:khaki;
+  text-align: center;
+  background-image: url("./resources/pattern.jpeg");
+  }
+
+h1.Bold_white {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color:white;
+  }
+
+h3 {font-family: Helvetica; font-weight: bold;}
+
+/*to keep fonts across the site consistant*/
+p {font-family: Helvetica;}
+
+strong {
+  font-family:Helvetica;
+  font-weight: bold;
+  color:blue;
+}
